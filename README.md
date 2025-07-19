@@ -1,1 +1,1 @@
-# blogifi
+# blogify
